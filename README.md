@@ -15,9 +15,12 @@ Bonus. Write the numbers in ascending order into a file dataSorted.txt. The numb
 in a single line separated by a single space character. The first number in the file states how many
 numbers follow.
 
-#data.txt
+![alt text](https://github.com/pfdinc/sorting_and_percentile/blob/master/Screen%20Shot%202017-10-22%20at%208.26.04%20AM.png)
+
+
 ![alt text](https://github.com/pfdinc/sorting_and_percentile/blob/master/Screen%20Shot%202017-10-22%20at%2010.04.59%20AM.png )
 
-#datasorted.txt
+
+
 ![alt text](https://github.com/pfdinc/sorting_and_percentile/blob/master/Screen%20Shot%202017-10-22%20at%2010.05.14%20AM.png )
 
