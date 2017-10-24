@@ -14,3 +14,5 @@ percentiles. You can read the numbers using the code below.
 Bonus. Write the numbers in ascending order into a file dataSorted.txt. The numbers should be
 in a single line separated by a single space character. The first number in the file states how many
 numbers follow.
+
+![alt text](https://github.com/pfdinc/sorting_and_percentile/blob/master/Screen%20Shot%202017-10-22%20at%208.26.04%20AM.png )
